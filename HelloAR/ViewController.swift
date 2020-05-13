@@ -20,6 +20,10 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         // Set the view's delegate
         sceneView.delegate = self
         
+        sceneView.autoenablesDefaultLighting = true 
+        
+        sceneView.debugOptions = [.showFeaturePoints]
+        
         // Show statistics such as fps and timing information
         sceneView.showsStatistics = true
         
@@ -98,6 +102,27 @@ class ViewController: UIViewController, ARSCNViewDelegate {
     
     @objc func tapped(recognizer: UITapGestureRecognizer) {
        
+        /*
+         /* USER INTERACTION WITH THE VIRTUAL OBJECT
+         let hitTestResult = sceneView.hitTest(touch, options: nil)
+         if !hitTestResult.isEmpty {
+          
+             guard let hitTest = hitTestResult.first else {
+                     return
+             }
+             
+             let node = hitTest.node
+             
+             let material = SCNMaterial()
+             // CHANGE THE MATERIAL COLOR OF THE NODE
+                
+             node.geometry?.materials = [material]
+         } */
+         */
+        
+        
+        
+        // INTERSECTION WITH PLANE
         /*
          let sceneView = recognizer.view as! ARSCNView
          let touch = recognizer.location(in: sceneView)
