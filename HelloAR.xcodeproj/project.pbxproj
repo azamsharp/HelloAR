@@ -18,6 +18,8 @@
 		8DD41CB624645FF0003EB621 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8DD41CB424645FF0003EB621 /* Main.storyboard */; };
 		8DD41CB824645FF2003EB621 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8DD41CB724645FF2003EB621 /* Assets.xcassets */; };
 		8DD41CBB24645FF2003EB621 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8DD41CB924645FF2003EB621 /* LaunchScreen.storyboard */; };
+		8DFB87372469D04100F1F000 /* PUSHILIN_plant.scn in Resources */ = {isa = PBXBuildFile; fileRef = 8DFB87362469D04100F1F000 /* PUSHILIN_plant.scn */; };
+		8DFB87392469DF4A00F1F000 /* wood.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8DFB87382469DF4A00F1F000 /* wood.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,8 @@
 		8DD41CB724645FF2003EB621 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8DD41CBA24645FF2003EB621 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8DD41CBC24645FF2003EB621 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8DFB87362469D04100F1F000 /* PUSHILIN_plant.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = PUSHILIN_plant.scn; sourceTree = "<group>"; };
+		8DFB87382469DF4A00F1F000 /* wood.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wood.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,8 +85,10 @@
 				8D01CE2424698E4E000B8426 /* PUSHILIN_plant.mtl */,
 				8D01CE2A24698E7F000B8426 /* earth.jpg */,
 				8D01CE2524698E4E000B8426 /* PUSHILIN_plant.obj */,
+				8DFB87362469D04100F1F000 /* PUSHILIN_plant.scn */,
 				8D01CE2624698E4E000B8426 /* PUSHILIN_plant.png */,
 				8DD41CB424645FF0003EB621 /* Main.storyboard */,
+				8DFB87382469DF4A00F1F000 /* wood.jpg */,
 				8DD41CB724645FF2003EB621 /* Assets.xcassets */,
 				8DD41CB924645FF2003EB621 /* LaunchScreen.storyboard */,
 				8DD41CBC24645FF2003EB621 /* Info.plist */,
@@ -154,6 +160,8 @@
 				8D01CE2924698E4E000B8426 /* PUSHILIN_plant.png in Resources */,
 				8D01CE2B24698E7F000B8426 /* earth.jpg in Resources */,
 				8D01CE2724698E4E000B8426 /* PUSHILIN_plant.mtl in Resources */,
+				8DFB87392469DF4A00F1F000 /* wood.jpg in Resources */,
+				8DFB87372469D04100F1F000 /* PUSHILIN_plant.scn in Resources */,
 				8DD41CB824645FF2003EB621 /* Assets.xcassets in Resources */,
 				8DD41CB624645FF0003EB621 /* Main.storyboard in Resources */,
 			);
