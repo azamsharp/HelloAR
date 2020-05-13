@@ -12,6 +12,7 @@
 		8D01CE2824698E4E000B8426 /* PUSHILIN_plant.obj in Resources */ = {isa = PBXBuildFile; fileRef = 8D01CE2524698E4E000B8426 /* PUSHILIN_plant.obj */; };
 		8D01CE2924698E4E000B8426 /* PUSHILIN_plant.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D01CE2624698E4E000B8426 /* PUSHILIN_plant.png */; };
 		8D01CE2B24698E7F000B8426 /* earth.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8D01CE2A24698E7F000B8426 /* earth.jpg */; };
+		8D0F736B246C7C8700C5D5EB /* wood.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8D0F736A246C7C8700C5D5EB /* wood.jpg */; };
 		8DD41CAF24645FF0003EB621 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD41CAE24645FF0003EB621 /* AppDelegate.swift */; };
 		8DD41CB124645FF0003EB621 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 8DD41CB024645FF0003EB621 /* art.scnassets */; };
 		8DD41CB324645FF0003EB621 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD41CB224645FF0003EB621 /* ViewController.swift */; };
@@ -26,6 +27,7 @@
 		8D01CE2524698E4E000B8426 /* PUSHILIN_plant.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = PUSHILIN_plant.obj; sourceTree = "<group>"; };
 		8D01CE2624698E4E000B8426 /* PUSHILIN_plant.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PUSHILIN_plant.png; sourceTree = "<group>"; };
 		8D01CE2A24698E7F000B8426 /* earth.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = earth.jpg; sourceTree = "<group>"; };
+		8D0F736A246C7C8700C5D5EB /* wood.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wood.jpg; sourceTree = "<group>"; };
 		8DD41CAB24645FF0003EB621 /* HelloAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DD41CAE24645FF0003EB621 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8DD41CB024645FF0003EB621 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 				8DD41CB224645FF0003EB621 /* ViewController.swift */,
 				8D01CE2424698E4E000B8426 /* PUSHILIN_plant.mtl */,
 				8D01CE2A24698E7F000B8426 /* earth.jpg */,
+				8D0F736A246C7C8700C5D5EB /* wood.jpg */,
 				8D01CE2524698E4E000B8426 /* PUSHILIN_plant.obj */,
 				8D01CE2624698E4E000B8426 /* PUSHILIN_plant.png */,
 				8DD41CB424645FF0003EB621 /* Main.storyboard */,
@@ -152,6 +155,7 @@
 				8D01CE2824698E4E000B8426 /* PUSHILIN_plant.obj in Resources */,
 				8DD41CBB24645FF2003EB621 /* LaunchScreen.storyboard in Resources */,
 				8D01CE2924698E4E000B8426 /* PUSHILIN_plant.png in Resources */,
+				8D0F736B246C7C8700C5D5EB /* wood.jpg in Resources */,
 				8D01CE2B24698E7F000B8426 /* earth.jpg in Resources */,
 				8D01CE2724698E4E000B8426 /* PUSHILIN_plant.mtl in Resources */,
 				8DD41CB824645FF2003EB621 /* Assets.xcassets in Resources */,
